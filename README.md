@@ -1,13 +1,16 @@
+# my portfolio
 
 ==================================================================================================
 
-Hello! I'm Vetrivel M, This is my portfolio, I invite you to explore a collection of my work that 
+Hello! 
+# I'm Vetrivel M, 
+This is my portfolio, I invite you to explore a collection of my work that 
 showcases my skills, creativity, and commitment to excellence.
 
 ==================================================================================================
 
 
-GET THE LATEST VERSION:
+#### GET THE LATEST VERSION:
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
 always download the template files directly at our website(http://www.styleshout.com/)
@@ -17,7 +20,7 @@ always download the template files directly at our website(http://www.styleshout
 -------------------------------------------------------------------------------------------------------
 
 
-SOURCES AND CREDITS:
+#### SOURCES AND CREDITS:
 
 I've used the following resources as listed.
 
