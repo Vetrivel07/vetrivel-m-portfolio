@@ -154,8 +154,8 @@ p img {
 }
 p.lead {
 	font-family: "lora-regular", serif;
-	font-size: 2rem;
-	line-height: 1.8;
+	font-size: 1.7rem;
+	line-height: 3rem;
 	color: #888888;
 }
 @media only screen and (max-width:768px) {
@@ -1507,15 +1507,15 @@ header .logo a img {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
+	height: 19rem;
+	width: 19rem;
 	border-radius: 50%;
-	margin: .9rem 0 0 0;
+	margin: 3.9rem 0 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: left;
-	padding-left: 13rem;
+	padding-left: 21rem;
 }
 
 .about-content {
