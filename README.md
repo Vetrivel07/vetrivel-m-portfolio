@@ -17,5 +17,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Vetrivel Maheswaran**
 
-* LinkedIn: [@Vetrivel Maheswaran](https://www.linkedin.com/in/vetrivel-maheswaran)
+* LinkedIn: [linkedin](https://www.linkedin.com/in/vetrivel-maheswaran)
 * GitHub: [@vetrivel Maheswaran](https://github.com/Vetrivel07)
