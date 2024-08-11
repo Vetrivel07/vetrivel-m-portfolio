@@ -1,6 +1,6 @@
 ## My Portfolio
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://vetrivel07.github.io/vetrivel-m-portfolio).
+Designed and developed a personal portfolio website from scratch using HTML, CSS, and JavaScript, showcasing my technical skills and creative vision. This project demonstrates my proficiency in front-end development, responsive design, and interactive user experiences. You can check it out [here](https://vetrivel07.github.io/vetrivel-m-portfolio).
 
 
 
