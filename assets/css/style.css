@@ -426,6 +426,33 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
+/*about*/
+
+.about-button-container{
+  margin: 0x 50px 0px 50px;
+  padding: 10px 80px 10px 80px;
+}
+.sub-button-container{
+  padding: 0px 80px 40px 290px;
+  margin: 10px 30px 0px 30px;
+}
+.hireme-button, .cv-button{
+  margin-left: 60px;
+  float: left;
+  width: 200px;
+  padding: 8px;
+  background-color: #0d3059;
+  border-radius: 8px;
+  text-align: center;
+}
+.hireme-button:hover, .cv-button:hover{
+  background-color:#12d640;
+  color: #fff;
+}
+.hireme-button1, .cv-button1{
+  color: #fff;
+  text-decoration: none;
+}
 
 /*--------------------------------------------------------------
 # Counts
@@ -687,6 +714,7 @@ section .container {
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
   margin: 10px;
+  border-radius: 10px;
 }
 
 .services .icon-box .icon {
@@ -916,15 +944,80 @@ section .container {
 }
 
 /*--------------------------------------------------------------
+# Project
+--------------------------------------------------------------*/
+  .project-container{
+    margin: 0px 50px 0px 81px;
+    padding: 0px 50px 0px 150px;
+ }
+ .project-gallery{
+    margin-top: 10px;
+    margin-right: 15px;
+    float: left;
+    width: 340px;
+    padding: 10px;
+    background-color: #0d3059;
+    border-radius: 10px;
+ }
+ .project-gallery:hover{
+    background-color: #103e71;
+ }
+ .desc {
+    text-align: center; 
+    color:#12d640;
+    text-decoration: none;
+    font-size: large;
+    padding: 8px 0px 8px 0px;
+  }
+  .project-section-title h2 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 30px;
+    line-height: 1px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #dee2e6;
+    font-family: "Poppins", sans-serif;
+    margin-left: 228px;
+    margin-top: 30px;
+  }
+  
+  .project-section-title h2::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #dee2e6;
+    margin: 4px 10px;
+  }
+  
+  .project-section-title p {
+    margin: 0;
+    margin: -15px 0 15px 0;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+  }
+
+/*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
   color: #444444;
   padding: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
   width: 100%;
   background: #09203a;
+  transition: ease-in-out 0.3s;
+  border-radius: 10px;
 }
-
+.contact .info-box:hover {
+  background-color: #042e5f;
+  transition: 0.7s;
+}
 .contact .info-box i.bx {
   font-size: 26px;
   color: #fff;
@@ -970,7 +1063,7 @@ section .container {
   line-height: 1;
   transition: 0.3s;
 }
-
+/*
 .contact .info-box .social-links a:hover {
   color: #12d640;
 }
@@ -1103,7 +1196,7 @@ section .container {
     transform: rotate(360deg);
   }
 }
-
+*/
 /*--------------------------------------------------------------
 # Credits
 --------------------------------------------------------------*/
@@ -1131,4 +1224,61 @@ section .container {
     right: 0;
     transform: translateX(-50%);
   }
+}
+
+/*contactform*/
+
+
+.contactform-container{
+  margin: 30px 10px 0px 5px;
+}
+.sub-contactform{
+  background: #09203a;
+  padding: 20px 30px 20px 30px;
+  border-radius: 10px;
+}
+.form-item{
+  color:#12d640;
+  letter-spacing: 1px;
+}
+#form-button{
+  background-color: #12d640;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 40px 10px 40px;
+  font-size: large;
+}
+#form-button:hover{
+  opacity: 0.8;
+  color: #fff ;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+/*footer*/
+
+.footer{
+  background-color: #101822;
+  padding: 10px;
+  margin-top: 5px;
+  text-align: center;
+  color: #ccc;
 }
