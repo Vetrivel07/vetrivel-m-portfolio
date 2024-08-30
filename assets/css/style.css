@@ -1000,7 +1000,7 @@ section .container {
     font-family: "Poppins", sans-serif;
     color: #fff;
   }
-/*slider projects section*/
+/*---------------------slider projects section------------*/
 
 :root{
   --item1-transform: translateX(-100%) translateY(-5%) scale(1.5);
